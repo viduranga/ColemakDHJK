@@ -15,10 +15,10 @@ Colemak DHJK is a sensible variation of the Colemak DH layout which makes two ke
 
 ## Why not?
 
-#### Why not change the keybindings in Vim instead of inventing a new layout?
+### Why not change the keybindings in Vim instead of inventing a new layout?
 It's not just Vim, lot more power user apps like LazyGit, LazyDocker, NNN uses JKLH keybinding for navigations. It becomes a real hassle and in some situations impossible to change all these app configs
 
-#### Why not change a lot more and bring JKLH keys back to the home row?
+### Why not change a lot more and bring JKLH keys back to the home row?
 If we change the layout a lot, it will lose all the things that make Colemak DH such a perfect layout.
 
 ## How to install?
