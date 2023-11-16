@@ -2,7 +2,7 @@
 
 Colemak DHJK is a sensible variation of the Colemak DH layout which makes two key changes.
 
-1. The original Colemak layout places J key on the top row and K key on the bottom row. While this is completely fine for regular use, when you are a vim user, this feels very counter intuitive. It makes much more sense to have J key (which is line down key in vim) on the bottom row; and to have K key (which is the line up key in vim) on the top row. Colemak DHJK does exactly this by swapping the J and K keys on Colemak DH layout
+1. The original Colemak DH layout places J key on the top row and K key on the bottom row. While this is completely fine for regular use, when you are a vim user, this feels very counter intuitive. It makes much more sense to have J key (which is line down key in vim) on the bottom row; and to have K key (which is the line up key in vim) on the top row. Colemak DHJK does exactly this by swapping the J and K keys on Colemak DH layout
 
 ![image](https://github.com/viduranga/ColemakDHJK/assets/8828757/46bab2ad-6cc1-4a10-ab98-4857f0ae827d)
 
